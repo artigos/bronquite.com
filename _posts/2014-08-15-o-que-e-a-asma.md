@@ -1,0 +1,17 @@
+---
+layout: default
+title: O que é a asma?
+permalink: o-que-e-a-asma.html
+---
+
+#{{ page.title }}
+
+A asma é uma doença brônquica que se manifesta por meio de crises de dificuldade respiratória com produção de silvos (sibilâncias). Essas crises devem-se à obstrução dos brônquios por secreções mais ou menos abundantes, dilatação da mucosa e contracção dos músculos brônquicos. A dificuldade respiratória que ocasionam regride habitualmente em poucas horas, espontaneamente ou sob a influência de medicamentos «broncodilatadores». No intervalo das crises, a criança em geral não experimenta qualquer incómodo. No entanto, alguns esforços funcionais respiratórios, que abordaremos mais adiante, são susceptíveis de provocar nas crianças perturbações da função respiratória que o exame não permite suspeitar.
+
+A frequência da asma é mal conhecida entre a população geral, como testemunham vários inquéritos. A prevalência, ou seja, o número de pacientes atingidos pela afecção, que vivem durante um período e numa área geográfica determinados, varia ente 0,8 e 12,1%. Estas divergências são atribuídas às incertezas da definição da asma e à diversidade dos métodos de análise estatística. A asma de crises frequentes, com início na infância e evoluindo até aos 16 anos, representa 2 a 5% da população infantil. A prevalência eleva-se entre 10 e 19%, se tomarmos em consideração a asma do bebé.
+
+Alguns números permitem ilustrar a importância desta doença e das alérgicas como problema de saúde pública. Há 6 a 8 milhões de asmáticos, dos quais 1,5 milhão de crianças nos Estados Unidos. Em França, com base no número de 700000 recém-nascidos por ano, podem prever-se 14000 a 35000 asmáticos e 70 000 a 133 000 pacientes portadores de alergias diversas. Nos últimos anos, registou-se um aumento progressivo da frequência das doenças alérgicas. Na Grã-Bretanha, num período de 11 anos, o aumento da prevalência da asma foi de 22% entre os estudantes de Birmingham.
+
+A asma ataca com maior frequência os rapazes que as raparigas, pois conta-se habitualmente uma rapariga para dois rapazes afectados. As estimativas respeitantes à idade da sua aparição são muito divergentes: as primeiras crises começam durante o primeiro ano de vida em 10 a 15% dos casos e antes do quinto ano em 65 a 95%. As asmas de aparição mais tardia, após os 10 anos, são muito mais raras (menos de 10% dos casos). Encontram-se antecedentes alérgicos familiares em 49 a 75% dos casos, com leve predominância no ramo maternal. A prática quotidiana revela bem a existência de uma «hereditariedade alérgica», mas, apesar de numerosos trabalhos, não foi possível estabelecer o seu modo de transmissão exacto. Pensa-se que, a par de factores genéticos, intervêm muitos outros, resultantes do ambiente.
+
+Podemos então levantar a questão de saber se a asma é uma afecção provocada por diferentes mecanismos («doença asmática») ou se, pelo contrário, resulta de perturbações distintas com a capacidade comum de provocar uma dificuldade ao escoamento do ar nas vias aéreas («síndroma asmático»). Parece que a tendência actual reside em considerar que se trata de um síndroma com, na base, uma aptidão particular dos brânquios, que reagem reduzindo o seu calibre, em resposta a agressões variadas infecciosas, alergénicas, irritativas, meteorológicas, psicoafectivas ou outras. Torna-se então capital apreciar o papel exacto desses diferentes factores no desencadear das crises, por forma a tratar eficazmente não só os sintomas da afecção, mas sobretudo a causa ou causas.

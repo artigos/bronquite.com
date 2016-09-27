@@ -4,7 +4,7 @@ title: O que é a bronquite?
 permalink: bronquite-definicao.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A bronquite é uma inflamação da membrana mucosa dos brônquios, que produz uma tosse persistente acompanhada de expectoração. Apresenta-se de duas formas: _bronquite aguda_ e _bronquit crónica_.
 

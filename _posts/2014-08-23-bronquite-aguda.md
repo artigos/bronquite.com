@@ -4,9 +4,9 @@ title: Bronquite aguda
 permalink: bronquite-aguda.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##O que é a bronquite aguda
+## O que é a bronquite aguda
 
 Bronquite é a inflamação da árvore brônquica (canais, chamados de brônquios, pelos quais o ar chega até os alvéolos), que produz aumento de secreção e determina o aparecimento de tosse e expectoração. Esse território toma-se propício à proliferação de bactérias, havendo assim infecção, o que agrava o quadro inflamatório. A inflamação, por sua vez, reduz o calibre das vias aéreas, ocasionando o aparecimento de chiado no peito e falta de ar.
 

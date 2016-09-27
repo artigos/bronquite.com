@@ -4,7 +4,7 @@ title: Causas mais comuns para a falta de ar
 permalink: causas-mais-comuns-para-a-falta-de-ar.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 As causas são múltiplas, sendo as mais frequentes as __pulmonares__ ou __cardíacas__.
 

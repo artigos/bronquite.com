@@ -4,7 +4,7 @@ title: O que é a asma?
 permalink: o-que-e-a-asma.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A asma é uma doença brônquica que se manifesta por meio de crises de dificuldade respiratória com produção de silvos (sibilâncias). Essas crises devem-se à obstrução dos brônquios por secreções mais ou menos abundantes, dilatação da mucosa e contracção dos músculos brônquicos. A dificuldade respiratória que ocasionam regride habitualmente em poucas horas, espontaneamente ou sob a influência de medicamentos «broncodilatadores». No intervalo das crises, a criança em geral não experimenta qualquer incómodo. No entanto, alguns esforços funcionais respiratórios, que abordaremos mais adiante, são susceptíveis de provocar nas crianças perturbações da função respiratória que o exame não permite suspeitar.
 

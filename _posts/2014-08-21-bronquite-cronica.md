@@ -4,9 +4,9 @@ title: Bronquite crónica
 permalink: bronquite-crónica.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##O que é a bronquite crónica
+## O que é a bronquite crónica
 
 A _Bronquite Crónica_ pode apresentar-se sob modalidades clínicas e funcionais obstrutivas e não obstrutivas, sendo susceptível de sistematização quer (a) no seu espectro clássico (simples,com expectoração mucosa mati­nal; mucopurulenta, com broncorreia e infecção; obstrutiva, já com resistências pulmonares aumentadas ao fluxo expiratório), quer (b) através de maior diferenciação (simples e crónica: formas simples; com infecção; com obstrução; com instauração de coração pulmonar crónico).
 
